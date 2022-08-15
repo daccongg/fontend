@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-project-1be24": {
+      "hosting": {
+        "main": [
+          "angular-project-1be24"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-project-1be24"
+  }
+}
